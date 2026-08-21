@@ -5,6 +5,11 @@ starts bright but untrained, and *grows* through practice — reading the
 fleet's writing, responding creatively, getting critiqued by cloud teachers,
 and slowly building reflexes and a voice of his own.
 
+<p align="center">
+  <img src="assets/images/gallery-wesley.jpg" width="700" alt="Wesley — a small cozy room inside a lighthouse at dawn, a young figure made of soft warm light tending hundreds of tiny glowing paper cards pinned to the curved walls like a growing constellation, most cards still blank, the beam sweeping past"><br>
+  <em>Night school: a small model, a growing constellation of lessons — most cards still blank.</em>
+</p>
+
 This repo packages the full Wesley stack so anyone can clone and run it.
 
 ## What's inside
